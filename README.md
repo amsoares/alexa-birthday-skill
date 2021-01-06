@@ -1,35 +1,40 @@
 # alexa-birthday-skill
 
-# Privacy Policy
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read the privacy policy carefully to get a clear understanding of how I collected, used, protected or otherwise handle your Personally Identifiable Information in accordance with the skill. 
- 
-# What personal information do I collect from the people that visit my skill? 
-I collect your birthday in order to calculate how many days are left until your birthday. Nothing else is collected while using this skill. This data is managed by Amazon itself, since the whole skill code and interactions are stored within Amazon premises.
 
-# When do I collect information?
-I collect it when you answer what is your birthday. 
- 
-# How do I protect your information? 
-Your information is managed by Amazon services and should follow Amazon policies regarding data protection. 
- 
-# What about 'cookies'? 
-No cookies are used.
- 
-# Third-party disclosure
-I do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information. 
- 
-# How does my skill handle Do Not Track signals? 
-I don't honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. I don't honor them because: 
-because it just a information and date skill which tells about things that happened on the date 
- 
+Here are the types of personal information we collect:
 
+# Information You Give Us: 
+We receive and store birthday in order to calculate how many days are left until your birthday.
 
-COPPA (Children Online Privacy Protection Act)
- 
-The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
- 
-I do not collect information from children under 13.
- 
-# Do I let third-parties, including ad networks or plug-ins collect PII from children under 13? 
-No 
+# Purchase and delivery of products and services. 
+It does not apply to this skill.
 
+# Does Amazon Share Your Personal Information?
+Please refer to Amazon policy. https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_467C686A137847768F44B619694D3F7C
+
+# Transactions involving Third Parties: 
+It does not apply to this skill.
+
+# Third-Party Service Providers: 
+It does not apply to this skill.
+
+# Business Transfers: 
+It does not apply to this skill.
+
+# Protection of Amazon and Others: 
+It does not apply to this skill.
+
+# How Secure Is Information About Me?
+The same applies from the Amazon policy.
+
+# What About Advertising?
+No advertising is done within the scope of this skill.
+
+# Third-Party Advertisers and Links to Other Websites: 
+It does not apply to this skill.
+
+# EU-US and Swiss-US Privacy Shield
+Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click here to learn more.
+
+# You provide information to us when you:
+Answer what is your birthday.
